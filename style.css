@@ -66,10 +66,15 @@ body {
   top: 50px;
   border: none;
   cursor: pointer;
+  transition: 0.1s;
+}
+
+.circle:hover {
+  box-shadow: 0px 0px 50px 0px var(--neon-green);
 }
 
 .circle:active {
-  box-shadow: 0px 0px 50px 0px var(--neon-green);
+  transform: rotate(365deg);
 }
 
 .attribution {
