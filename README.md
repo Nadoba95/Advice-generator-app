@@ -21,7 +21,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://nadoba95.github.io/Advice-generator-app/)
+- Live Site URL: [Link](https://nadoba95.github.io/Advice-generator-app/)
 
 ### Built with
 
